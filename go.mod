@@ -1,4 +1,4 @@
-module fdpassing
+module github.com/devlights/fdpassing
 
 go 1.23.0
 
